@@ -1,0 +1,19 @@
+{
+  "name": "bower.jvectormap",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dbartumeu/bower.jvectormap",
+  "authors": [
+    "Damian <dbartumeu@gmail.com>"
+  ],
+  "description": "A built version of jVectorMap (MIT license), suitable for consumption by bower.",
+  "main": [
+	"dist/css/jquery-jvectormap-2.0.1.css",
+	"dist/js/jquery-jvectormap-2.0.1.min.js",
+	"dist/js/jquery-jvectormap-europe-mill-en.js"
+  ],
+  "keywords": [
+    "map",
+    "vector"
+  ],
+  "license": "MIT"
+}
